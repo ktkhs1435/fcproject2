@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+[코드 작성 필요]
+작성 해야 하는 코드 조건 (28. Drawable - 이론, 실습 강의 참조)
+- 속이 #43A047 색으로 꽉찬 네모 모양입니다
+- radious 는 10dp 입니다
+-->
+
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape = "rectangle">
+
+    <solid android:color="#43A047" />
+    <corners android:radius="10dp" />
+
+</shape>

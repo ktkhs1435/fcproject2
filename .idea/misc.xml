@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.314" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/drawable/number_input_edittext_background.xml" value="0.2425" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/activity_main2.xml" value="0.55" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/baseball_item_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/check_answer_btn_background.xml" value="0.55" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/input_background.xml" value="0.26545086119554206" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/numberBaseballGame/app/src/main/res/layout/number_input_edittext_background.xml" value="0.55" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
