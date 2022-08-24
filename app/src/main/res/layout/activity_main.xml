@@ -42,7 +42,9 @@
 
             <EditText
                 android:id="@+id/user_input_numbers"
+                android:gravity="center"
                 android:inputType="number"
+                android:textColor="@color/white"
                 android:letterSpacing="2"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="10dp"
